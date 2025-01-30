@@ -8,16 +8,8 @@ macos-titlebar-style = "transparent"
 window-width = 105
 window-height = 35
 
-# I like to disable Adwaita on KDE.
-# GNOME => true, KDE => false
-# If unsure, leave commented out.
-#gtk-adwaita = false
-
 # Cursor & Mouse
 shell-integration-features = no-cursor
 cursor-style = "underline"
+cursor-color = "FF00FF"
 mouse-hide-while-typing = true
-
-# Update
-auto-update = download
-auto-update-channel = stable
